@@ -6,6 +6,12 @@ Pipeline: **Voice → frequency → harmonics → resonance → time → subject
 
 This is **not** a “magical consciousness frequency” finder. It measures and visualizes acoustic signals so you can practice, compare sessions, and keep subjective notes.
 
+## Live demo
+
+**https://kazi5isalive.github.io/voice-overtone-analyzer/**
+
+Deployed via GitHub Pages (HTTPS). Microphone access requires a secure context — Pages provides that. Wear headphones for binaural beats.
+
 ## Stack
 
 - Vite + React + TypeScript
